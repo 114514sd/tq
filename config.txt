@@ -1,0 +1,21 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx902c77af0fe52d95",
+# 公众号appSecret
+"app_secret": "eff44f683033c28df235e5f0683c4092",
+# 模板消息id
+"template_id": "vGjn-pL51c806FsedUg1KGYdK7wCx8H7GupZZXzSA7c",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oO5rm5mpDMaELPGHYZqE7_pbcvjk"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "645898517d2a47cab6f568cd4b472bec",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "温州市",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "对不起，我的爱不善言辞，我是个大笨蛋 I^I",
+# 金句英文
+"note_en": "I'm not good at words, but I love you deeply"
+}
